@@ -74,6 +74,7 @@ else
 		/.gitattributes export-ignore
 		/.gitignore export-ignore
 		/.github export-ignore
+		/README.md export-ignore
 		EOL
 
 		# Ensure we are in the $GITHUB_WORKSPACE directory, just in case
